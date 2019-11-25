@@ -15,3 +15,27 @@ img {
   max-width: 100%;
 }
 
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+div {
+  display: block;
+  color: #666;
+  max-width: 25em;
+  margin: 1.5rem;
+  vertical-align: middle;
+}
+
+.btn {
+  display: flex;
+  margin: 1.5rem;
+  padding: .5em;
+  border-color: #666;
+  color: #666;
+  background-color: #eee9de;
+  border-radius: 2px;
+  text-decoration: none;
+  text-align: left;
+}
